@@ -1,12 +1,5 @@
 # Volterra_maps
-Maple code for verifying tau function relations for integrable 4D Volterra map
-Volterra map MAPLE CODE: 
 
-This is the MAPLE code for verifying the computer algebra proof of Proposition 2.1 in the paper 
-"A family of integrable maps associated with the Volterra lattice" by A.N.W. Hone, J.A.G. Roberts and P. Vanhaecke, 
-which is freely available in preprint form here: https://arxiv.org/abs/2309.02336 (to appear in Nonlinearity). 
-
-For the interested reader who does not have access to the MAPLE software package, the plain text of the MAPLE file is reproduced here: 
 
 restart;
 with(LinearAlgebra);
